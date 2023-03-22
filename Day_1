@@ -1,0 +1,27 @@
+It's day 1 of my 100 days of DSA 
+
+Complexity Analysis: One of the most important part of programming is knowing the complexity of the you're writing. 
+The Efficiency of an algorithm depends of Two Parameter: 
+     1. Time complexity 
+     2. Space complexity
+     
+And today i learned about "Time complexity" 
+
+brief introduction: 
+Time complexity is a concept in computer science that deals with the quantification of the amount of time taken by the set of code or algorithm.
+It is defined as the number of times a particular instruction set is executed rather than the total time. 
+It is because the total time takes also depends on some external factor like the compiler used, the processor's speed, etc.
+
+So I learned.
+> What is Running time analysis 
+> How to compare algorithm
+> Rate of growth 
+> Types of analysis
+> Asympototic Notations
+> Big - o - notation
+> Omega - Ω -  notation
+> Theta- θ - notation
+> Guidlines for Asymtotic notation
+> Recurrence Relation
+> Master's theorem and its limitation. 
+
