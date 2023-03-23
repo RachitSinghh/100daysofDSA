@@ -1,1 +1,35 @@
+Its Day 2 at 100 days of DSA 
+
+Today i learned about "Space complexity" second topic in Complexity Analysis.
+
+Also did little bit of revision on Time complexity. 
+
+In Space Complexity i learned. 
+
+   > What is space complexity:
+     Space Complexity is am easure of the total memory including the space of input value with respect to the input size, that an algorithm needs to run and produce the 
+      Result.
+      
+   > Auxiliary Space:
+        It is a temporary space or extra space used by an algorithm apart from the input size in order to solve a problem. 
+      
+   > Also did Some MNQs on Code studio
+    (Just in case u don't know but Code studio is providing Free certificate on Widely used languages and DSA and list goes on )
+     
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+     Other than DSA i also learned about Object oriented programming.
+     I learned about 
+     
+     > Class and objects
+     > Empty class
+     > Access modifiers 
+     > getter & setter
+     > static & dynamic allocation 
+     > contructor >> Parameterised constructor
+     > This -> keyword
+     > Copy Constructor
+     > Shallow & Deep copy
+     > Destructor 
+     > static Keyword
+     > static Function
 
