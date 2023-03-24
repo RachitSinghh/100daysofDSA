@@ -32,3 +32,60 @@ such as : 1. Encapsulation
             >Run-Time Polymophism
           
           4. Abstraction.   
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Also did some patter quesiton such as
+
+1. * * *
+   * * *
+   * * *
+
+#include <iostream>
+using namespace std;
+
+void printPattern(int N)
+{
+  for(int i = 0; i<N; i++){
+    for(int j = 0; j<N; j++){
+      cout << "*";
+    }
+    cout << endl;  
+  }
+}
+
+int main() {
+    int N = 5;
+
+  printPattern(N);
+
+  return  0;
+}
+
+
+2. * 
+   * * 
+   * * *
+   * * * *
+
+
+
+#include <iostream>
+using namespace std;
+
+void printPattern(int N)
+{
+  for(int i = 0; i<N; i++){
+    for(int j = 0; j<i; j++){
+      cout << "*";
+    }
+    cout << endl;  
+  }
+}
+
+int main() {
+    int N = 5;
+
+  printPattern(N);
+
+  return  0;
+}
