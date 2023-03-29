@@ -1,0 +1,14 @@
+day 7 at DSA 
+
+this is the first time i've been consistent this long to something 
+
+anyways today i learned about 
+> Sort 0s 1s and 2s in Linked List
+    -> With two approach 
+          1. by traversing. 
+           -> we do traversing and count the no. of element is present and replace the element 
+          2. Replacement is not allowed instead we replaces the links which were connecting the elements
+          
+> Merge 2 sorted Linked List
+with the apporach of case by case
+-> Case by case
