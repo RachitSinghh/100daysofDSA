@@ -1,1 +1,31 @@
+Day 13 at 100 days of DSA 
 
+started Queue and finished its basics
+
+I learned About 
+
+-> Operation in Queue
+   1. Push/insert
+   2. Pop/remove
+   3. size
+   4. isEmpty
+ There are many more but i learned about important ones today 
+ 
+-> STL in queue
+   1. Create Queue -> queue<int> q;
+   2. Push -> q.push();
+   3. Pop -> q.pop();
+   4. Size -> q.size();
+   5. from -> q.front();
+   
+   
+-> Implementation of Queue
+  :: Two types of implementation can be done
+    -> by using Array 
+    -> by using Linked list
+    
+-> Also Submitted Some Question in Code studio 
+
+   1.Queue Implementation
+   2.Circular Queue 
+   3.Doubly Ended Queue Implementation
